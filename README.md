@@ -2,7 +2,7 @@
 RF and millimeter-Wave Circuit Design
 
   * [System Design Specification and Architecture](#System-Design-Specification-and-Architecture)
-  * [Low Pass Filter](#Low-Pass-Filter)
+  * [Filter](#Filter)
   * [Amplifier](#Amplifier)
   * [Mixer](#Mixer)
   * [Oscillator](#Oscillator)
@@ -17,7 +17,7 @@ RF and millimeter-Wave Circuit Design
 ##### System Simulation
 ![](img/WTCT.png)
 ![](img/WTCTwaveform.png)
-## Low Pass Filter
+## Filter
 ![](img/lpf.png)
 ![](img/lpf_sim.png)
 ## Amplifier
@@ -28,15 +28,15 @@ RF and millimeter-Wave Circuit Design
 ##### Low Noise Amplifier
 ![](img/lna_sch.png)
 ![](img/lna_graph.png)
+![lna](https://user-images.githubusercontent.com/93269547/161459150-7a40d875-e5a4-4b0f-bbc9-1c1d78821856.gif)
+![lna2](https://user-images.githubusercontent.com/93269547/161459159-1ce926b2-aa06-4062-9ceb-89fdea48a514.gif)
+![lna3](https://user-images.githubusercontent.com/93269547/161459164-fdb14fb3-7c24-42f5-aa8f-7f86c948bf8f.gif)
 ##### LNA with Parasitics
 ![](img/lna_sch_parasitics.png)
 ![](img/lna_graph_parasitics.png)
 ##### Matched LNA with Parasitics
 ![](img/lna_sch_match.png)
 ![](img/lna_graph_match.png)
-![lna](https://user-images.githubusercontent.com/93269547/161459150-7a40d875-e5a4-4b0f-bbc9-1c1d78821856.gif)
-![lna2](https://user-images.githubusercontent.com/93269547/161459159-1ce926b2-aa06-4062-9ceb-89fdea48a514.gif)
-![lna3](https://user-images.githubusercontent.com/93269547/161459164-fdb14fb3-7c24-42f5-aa8f-7f86c948bf8f.gif)
 ##### Power Amplifier
 ![PA](https://user-images.githubusercontent.com/93269547/161459210-d1647ed0-44fd-47af-a2cc-e8ec64160721.gif)
 ![PA_marched](https://user-images.githubusercontent.com/93269547/161459221-5a283307-37b1-4be6-acf6-c5408692fc58.gif)
@@ -86,6 +86,7 @@ RF and millimeter-Wave Circuit Design
 ##### Pll design
 ![](img/pll.png)
 ![](img/pll_sim.png)
+##### Pll component
 ![](img/pll_component.png)
 ![](img/pll_component2.png)
 
